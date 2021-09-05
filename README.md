@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @KarolG99.
-- 👀 I’m interested in programming, design, UI, UX.
-- 🌱 I’m currently learning JS and React.
-- 💞️ I’m ready to collaborate.
-- 📫 How to reach me: 
+<h1>👋 Hi, I’m Karol Gucwa!</h1>
+<p>I am learning frontend development. I want to develop myself and I am ready to cooperation.</p>
 e-mail: karolgucwav2@gmail.com, karolus2212@gmail.com
 
 <!---
