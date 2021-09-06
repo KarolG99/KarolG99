@@ -1,5 +1,5 @@
 <h1>👋 Hi, I’m Karol Gucwa!</h1>
-<p>I am learning frontend development. I think that i can help you create a high quality product. I want to develop myself and I am ready to cooperation.</p>
+<p>I am learning frontend development. I hope that i can help you create a high quality product. I want to develop myself and I am ready to cooperation.</p>
 e-mail: karolgucwav2@gmail.com, karolus2212@gmail.com
 
 <!---
