@@ -1,4 +1,4 @@
-
+karolgucwav2@gmail.com
 
 <!---
 KarolG99/KarolG99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
