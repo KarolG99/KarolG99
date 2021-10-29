@@ -1,4 +1,4 @@
-<h2>My portfolio website</h2> <p>http://karolgucwa.pl/</p>
+<h2>My portfolio website</h2> <p>https://karolgucwa.pl/</p>
 <h2>Tenis game:</h2> <p>https://karolg99.github.io/Tennis-game/</p>
 <h2>Waldus page:</h2> <p>https://karolg99.github.io/WaldusPageReact/</p>
 
