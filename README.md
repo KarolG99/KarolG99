@@ -1,4 +1,5 @@
 <h2>My portfolio website</h2> <p>https://karolgucwa.pl/</p>
+<h2>Przygotowka app</h2> <p>https://przygotowka.netlify.app/</p>
 <h2>Food ordering:</h2> <p>https://jedzenieonline.netlify.app/</p>
 <h2>Tenis game:</h2> <p>https://karolg99.github.io/Tennis-game/</p>
 <h2>Waldus page:</h2> <p>https://karolg99.github.io/WaldusPageReact/</p>
