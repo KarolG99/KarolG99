@@ -30,35 +30,35 @@ You can find more info about me on <a href="https://karolgucwa.pl/">my website</
 
 <h2>MY PROJECTS 👇</h2>
 
-<h3>Przygotowka (MERN App)</h3> 
+<h3>👉Przygotowka (MERN App)</h3> 
 <p>Demo: https://przygotowka.netlify.app/</p>
 <p>Code: https://github.com/KarolG99/przygotowka</p>
 
-<h3>My cars info </h3> 
+<h3>👉 My cars info </h3> 
 <p>Demo: https://mojepojazdy.netlify.app/</p>
 <p>Code: https://github.com/KarolG99/my-cars-info</p>
 
-<h3>Food ordering:</h3>
+<h3>👉 Food ordering:</h3>
 <p>Demo: https://jedzenieonline.netlify.app/</p>
 <p>Code: https://github.com/KarolG99/order-food</p>
 
-<h3>Tenis game:</h3>
+<h3>👉 Tenis game:</h3>
 <p>Demo: https://karolg99.github.io/Tennis-game/</p>
 <p>Code: https://github.com/KarolG99/Tennis-game</p>
 
-<h3>Waldus - new</h3>
+<h3>👉 Waldus - new</h3>
 <p>Demo: https://waldus.netlify.app</p>
 <p>Code: https://github.com/KarolG99/Waldus-new</p>
 
-<h3>Waldus page:</h3>
+<h3>👉 Waldus page:</h3>
 <p>Demo: https://karolg99.github.io/WaldusPageReact/</p>
 <p>Code: https://github.com/KarolG99/WaldusPageReact</p>
 
-<h3>Quiz Game:</h3>
+<h3>👉 Quiz Game:</h3>
 <p>Demo: https://karolg99.github.io/React-Quiz/</p>
 <p>Code: https://github.com/KarolG99/React-Quiz</p>
 
-<h3>Twitter Clone:</h3>
+<h3>👉 Twitter Clone:</h3>
 <p>Demo: https://karolg99.github.io/Twitter-clone/</p>
 <p>Code: https://github.com/KarolG99/TypeScript-TwitterClone</p>
 
