@@ -46,9 +46,14 @@ You can find more info about me on <a href="https://karolgucwa.pl/">my website</
 <p>Demo: https://karolg99.github.io/Tennis-game/</p>
 <p>Code: https://github.com/KarolG99/Tennis-game</p>
 
-<h2>Waldus - nowa wersja</h2> <p>https://waldus.netlify.app</p>
-<h2>Waldus page:</h2> <p>https://karolg99.github.io/WaldusPageReact/</p>
+<h3>Waldus - new</h3>
+<p>Demo: https://waldus.netlify.app</p>
+<p>Code: https://github.com/KarolG99/Waldus-new</p>
+
+<h3>Waldus page:</h3> <p>https://karolg99.github.io/WaldusPageReact/</p>
+
 <h2>Quiz Game:</h2> <p>https://karolg99.github.io/React-Quiz/</p>
+
 <h2>Twitter Clone:</h2> <p>https://karolg99.github.io/Twitter-clone/</p>
 
 
