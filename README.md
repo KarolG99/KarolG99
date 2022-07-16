@@ -12,21 +12,28 @@
 
 <br>
 
-<p>Currently I learn web development and mainly I use React, TypeScript/JavaScript, StyledComponents, Express, MongoDB, GraphQL/REST API and Figma. Also in 2022/2023 I am going to try myself in artificial intelligence, machine learning or cybersecurity.
+<h2>ABOUT ME</h2>
+<p>
+Currently I learn web development and mainly I use React, TypeScript/JavaScript, StyledComponents, Express, MongoDB, GraphQL/REST API and Figma. Also in 2022/2023 I am going to try myself in artificial intelligence, machine learning or cybersecurity.
 <br>
 I am glad that through the code I can help people solve their problems.
-<br>
-<br>
+</p>
+
+<p>
 You can find more info about me on <a href="https://karolgucwa.pl/">my website</a> 🚀
 </p>
 
-<br>
-
 <p>Below you can check out my public projects.</p>
 
-<h2>My portfolio website 🚀</h2> <p>https://karolgucwa.pl/</p>
-<h2>My blog on twitter ⌨️</h2> <p>https://twitter.com/KarolGucwaDev</p>
-<h2>Przygotowka (MERN App)</h2> <p>https://przygotowka.netlify.app/</p>
+<br>
+
+
+<h2>MY PROJECTS 👇</h2>
+
+<h3>Przygotowka (MERN App)</h3> 
+<p>Demo: https://przygotowka.netlify.app/</p>
+<p>Code: https://github.com/KarolG99/przygotowka</p>
+
 <h2>My cars info </h2> <p>https://mojepojazdy.netlify.app/</p>
 <h2>Food ordering:</h2> <p>https://jedzenieonline.netlify.app/</p>
 <h2>Tenis game:</h2> <p>https://karolg99.github.io/Tennis-game/</p>
