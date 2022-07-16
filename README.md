@@ -12,7 +12,7 @@
 
 <br>
 
-<h2>ABOUT ME</h2>
+<h2>ABOUT ME 👋</h2>
 <p>
 Currently I learn web development and mainly I use React, TypeScript/JavaScript, StyledComponents, Express, MongoDB, GraphQL/REST API and Figma. Also in 2022/2023 I am going to try myself in artificial intelligence, machine learning or cybersecurity.
 <br>
