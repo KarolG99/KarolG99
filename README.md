@@ -30,7 +30,7 @@ You can find more info about me on <a href="https://karolgucwa.pl/">my website</
 
 <h2>MY PROJECTS 👇</h2>
 
-<h3>👉Przygotowka (MERN App)</h3> 
+<h3>👉 Przygotowka (MERN App)</h3> 
 <p>Demo: https://przygotowka.netlify.app/</p>
 <p>Code: https://github.com/KarolG99/przygotowka</p>
 
