@@ -50,11 +50,17 @@ You can find more info about me on <a href="https://karolgucwa.pl/">my website</
 <p>Demo: https://waldus.netlify.app</p>
 <p>Code: https://github.com/KarolG99/Waldus-new</p>
 
-<h3>Waldus page:</h3> <p>https://karolg99.github.io/WaldusPageReact/</p>
+<h3>Waldus page:</h3>
+<p>Demo: https://karolg99.github.io/WaldusPageReact/</p>
+<p>Code: https://github.com/KarolG99/WaldusPageReact</p>
 
-<h2>Quiz Game:</h2> <p>https://karolg99.github.io/React-Quiz/</p>
+<h3>Quiz Game:</h3>
+<p>Demo: https://karolg99.github.io/React-Quiz/</p>
+<p>Code: https://github.com/KarolG99/React-Quiz</p>
 
-<h2>Twitter Clone:</h2> <p>https://karolg99.github.io/Twitter-clone/</p>
+<h3>Twitter Clone:</h3>
+<p>Demo: https://karolg99.github.io/Twitter-clone/</p>
+<p>Code: https://github.com/KarolG99/TypeScript-TwitterClone</p>
 
 
 <!---
