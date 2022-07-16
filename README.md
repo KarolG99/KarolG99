@@ -8,8 +8,15 @@
   <a href="https://twitter.com/KarolGucwaDev">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/KarolGucwaDev?style=social">
   </a>
-  
 </div>
+
+<br>
+
+<p>Currently I learn web development and mainly I use React, TypeScript/JavaScript, StyledComponents, Express, MongoDB, GraphQL/REST API and Figma. Also in 2022/2023 I am going to try myself in artificial intelligence, machine learning or cybersecurity.</p>
+
+<br>
+
+<p>Below you can check out my public projects.</p>
 
 <h2>My portfolio website 🚀</h2> <p>https://karolgucwa.pl/</p>
 <h2>My blog on twitter ⌨️</h2> <p>https://twitter.com/KarolGucwaDev</p>
