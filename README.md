@@ -62,6 +62,9 @@ You can find more info about me on <a href="https://karolgucwa.pl/">my website</
 <p>Demo: https://karolg99.github.io/Twitter-clone/</p>
 <p>Code: https://github.com/KarolG99/TypeScript-TwitterClone</p>
 
+<h2>MY STATS </h2>
+<img src="https://github-readme-stats.vercel.app/api?username=KarolG99&show_icons=truecount_private=true&theme=merko">
+
 
 <!---
 KarolG99/KarolG99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
