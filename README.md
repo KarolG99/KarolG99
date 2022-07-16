@@ -34,8 +34,14 @@ You can find more info about me on <a href="https://karolgucwa.pl/">my website</
 <p>Demo: https://przygotowka.netlify.app/</p>
 <p>Code: https://github.com/KarolG99/przygotowka</p>
 
-<h2>My cars info </h2> <p>https://mojepojazdy.netlify.app/</p>
-<h2>Food ordering:</h2> <p>https://jedzenieonline.netlify.app/</p>
+<h3>My cars info </h3> 
+<p>Demo: https://mojepojazdy.netlify.app/</p>
+<p>Code: https://github.com/KarolG99/my-cars-info</p>
+
+<h3>Food ordering:</h3>
+<p>Demo: https://jedzenieonline.netlify.app/</p>
+<p>Code: https://github.com/KarolG99/order-food</p>
+
 <h2>Tenis game:</h2> <p>https://karolg99.github.io/Tennis-game/</p>
 <h2>Waldus - nowa wersja</h2> <p>https://waldus.netlify.app</p>
 <h2>Waldus page:</h2> <p>https://karolg99.github.io/WaldusPageReact/</p>
