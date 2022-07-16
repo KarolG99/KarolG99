@@ -65,9 +65,9 @@ You can find more info about me on <a href="https://karolgucwa.pl/">my website</
 <br>
 
 <h2>MY STATS 🔥</h2>
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=KarolG99&show_icons=truecount_private=true&theme=merko"> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=KarolG99&show_icons=true&count_private=true&theme=merko"> -->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KarolG99&theme=highcontrast&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KarolG99&theme=highcontrast&count_private=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarolG99&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
