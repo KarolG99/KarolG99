@@ -42,7 +42,10 @@ You can find more info about me on <a href="https://karolgucwa.pl/">my website</
 <p>Demo: https://jedzenieonline.netlify.app/</p>
 <p>Code: https://github.com/KarolG99/order-food</p>
 
-<h2>Tenis game:</h2> <p>https://karolg99.github.io/Tennis-game/</p>
+<h3>Tenis game:</h3>
+<p>Demo: https://karolg99.github.io/Tennis-game/</p>
+<p>Code: https://github.com/KarolG99/Tennis-game</p>
+
 <h2>Waldus - nowa wersja</h2> <p>https://waldus.netlify.app</p>
 <h2>Waldus page:</h2> <p>https://karolg99.github.io/WaldusPageReact/</p>
 <h2>Quiz Game:</h2> <p>https://karolg99.github.io/React-Quiz/</p>
