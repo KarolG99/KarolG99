@@ -1,6 +1,10 @@
 <div class="header" align="center">
   <img src="https://user-images.githubusercontent.com/81558651/179361740-0dd0c29d-655e-4d8f-88d3-b3686f134201.png" alt="" width="100px" height="100px" >
   <h1>Hello! I'm Karol!</h1>
+  
+  <a href="" target="_blank">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/KarolGucwaDev?style=social">
+  </a>
 </div>
 
 <h2>My portfolio website 🚀</h2> <p>https://karolgucwa.pl/</p>
