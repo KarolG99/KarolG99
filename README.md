@@ -2,8 +2,11 @@
   <img src="https://user-images.githubusercontent.com/81558651/179361740-0dd0c29d-655e-4d8f-88d3-b3686f134201.png" alt="" width="100px" height="100px" >
   <h1>Hello! I'm Karol!</h1>
   
-  <a href="https://twitter.com/KarolGucwaDev" target="_blank">
+  <a href="https://twitter.com/KarolGucwaDev">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/KarolGucwaDev?style=social">
+  </a>
+  <a href="https://www.linkedin.com/in/karolgucwa/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue" alt="" >
   </a>
 </div>
 
