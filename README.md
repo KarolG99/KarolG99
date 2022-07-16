@@ -1,3 +1,8 @@
+<div class="header" align="center">
+  <img src="https://user-images.githubusercontent.com/81558651/179361740-0dd0c29d-655e-4d8f-88d3-b3686f134201.png" alt="" width="100px" height="100px" >
+  <h1>Hello! I'm Karol!</h1>
+</div>
+
 <h2>My portfolio website 🚀</h2> <p>https://karolgucwa.pl/</p>
 <h2>My blog on twitter ⌨️</h2> <p>https://twitter.com/KarolGucwaDev</p>
 <h2>Przygotowka (MERN App)</h2> <p>https://przygotowka.netlify.app/</p>
