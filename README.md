@@ -12,7 +12,13 @@
 
 <br>
 
-<p>Currently I learn web development and mainly I use React, TypeScript/JavaScript, StyledComponents, Express, MongoDB, GraphQL/REST API and Figma. Also in 2022/2023 I am going to try myself in artificial intelligence, machine learning or cybersecurity.</p>
+<p>Currently I learn web development and mainly I use React, TypeScript/JavaScript, StyledComponents, Express, MongoDB, GraphQL/REST API and Figma. Also in 2022/2023 I am going to try myself in artificial intelligence, machine learning or cybersecurity.
+<br>
+I am glad that through the code I can help people solve their problems.
+<br>
+<br>
+You can find more info about me on <a href="https://karolgucwa.pl/">my website</a> 🚀
+</p>
 
 <br>
 
