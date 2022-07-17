@@ -41,7 +41,7 @@
 
   <h3>👉 Przygotowka (MERN App)</h3> 
   <p>Demo: https://przygotowka.netlify.app/</p>
-  <p>Code: https://github.com/KarolG99/przygotowka</p>
+  <p>Code & Documentation: https://github.com/KarolG99/przygotowka</p>
 
   <h3>👉 My cars info </h3> 
   <p>Demo: https://mojepojazdy.netlify.app/</p>
