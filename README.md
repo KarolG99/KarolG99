@@ -23,7 +23,7 @@ I am glad that through the code I can help people solve their problems.
 </p>
 
 <p>
-You can find more info about me on <a href="https://karolgucwa.pl/">my website</a> 🚀
+You can find more info about me on <a href="https://karolgucwa.pl/">my website</a>
 </p>
 
 <p>Below you can check out my public projects.</p>
@@ -31,7 +31,7 @@ You can find more info about me on <a href="https://karolgucwa.pl/">my website</
 <br>
 
 
-<h2>MY PROJECTS 👇</h2>
+<h2>MY PROJECTS 🚀</h2>
 
 <h3>👉 Przygotowka (MERN App)</h3> 
 <p>Demo: https://przygotowka.netlify.app/</p>
