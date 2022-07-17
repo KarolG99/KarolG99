@@ -80,6 +80,10 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarolG99&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
+<br>
+
+<i>Icons from https://www.flaticon.com/</i>
 
 <!---
 KarolG99/KarolG99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
