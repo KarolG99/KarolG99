@@ -3,10 +3,13 @@
   <h1>Hello! I'm Karol!</h1>
   
   <a href="https://www.linkedin.com/in/karolgucwa/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue" alt="" >
+<!--     <img src="https://img.shields.io/badge/LinkedIn-blue" alt="" > -->
+    <img src="https://user-images.githubusercontent.com/81558651/179387323-70e18803-32d0-4e28-9abd-803ce94b921f.png" width="32px" height="32px" alt="linkedin logo" >
   </a>
+  
   <a href="https://twitter.com/KarolGucwaDev">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/KarolGucwaDev?style=social">
+     <img src="https://user-images.githubusercontent.com/81558651/179387287-617d1c55-1a31-4522-bdb3-9ea8a174cdc4.png" width="32px" height="32px" alt="twitter logo">
+<!--     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/KarolGucwaDev?style=social"> -->
   </a>
 </div>
 
