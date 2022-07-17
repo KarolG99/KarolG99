@@ -83,7 +83,7 @@
 <br>
 <br>
 
-<i>Icons from https://www.flaticon.com/</i>
+<i>Header icons from https://www.flaticon.com/</i>
 
 <!---
 KarolG99/KarolG99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
