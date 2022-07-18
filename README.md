@@ -45,7 +45,7 @@
 
   <h3>👉 My cars info </h3> 
   <p>Demo: https://mojepojazdy.netlify.app/</p>
-  <p>Code: https://github.com/KarolG99/my-cars-info</p>
+  <p>Code & Documentation: https://github.com/KarolG99/my-cars-info</p>
 
   <h3>👉 Food ordering:</h3>
   <p>Demo: https://jedzenieonline.netlify.app/</p>
